@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0.1,
-    "url": "https://github.com/AxolotSmall/MizuiroTheme/blob/main/background.png?raw=true",
-    "alpha": 0.9,
+    "blur": 0.5,
+    "url": "https://raw.githubusercontent.com/axolotsmall/MizuiroTheme/main/background.png",
+    "alpha": 0.4,
     "color": "#0A0A0A"
   }
 }
